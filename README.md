@@ -12,7 +12,7 @@ The purpose of this project is to demonstrate applying technique of data warehou
 
 ## Architecture
 
-High level architecture can be refer here - ![alt text](<Fantasy Premier League Architecture-High Level Architecture.drawio.png>)
+Data Pipeline High Level Architecture - ![alt text](<Fantasy Premier League Architecture-High Level Architecture.drawio.png>)
 
 ## Azure Function
 
